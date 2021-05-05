@@ -1,0 +1,14 @@
+body{
+  background-color: blue;
+}
+h1{
+  color:black;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 2rem;
+  font-weight: bolder;
+}
+h2 {
+  font-size: 1.6rem;
+}
+
